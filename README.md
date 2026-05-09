@@ -10,6 +10,9 @@ The application uses the LSA (Latent Semantic Analysis) algorithm from the Sumy 
 This project was developed as part of an Artificial Intelligence Internship Task.
 
 
+<img width="1229" height="906" alt="Image" src="https://github.com/user-attachments/assets/e8b8a89a-8875-439b-9102-9e5d7918e02c" />
+
+
 ## Features
 
 - Summarizes lengthy articles automatically
